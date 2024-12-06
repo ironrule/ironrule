@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ironrule/ironrule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on utilities to automate processes with CSV, Excel, and Javascript.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: brandonking25@gmail.com or 606-219-4795.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about automating Excel processes to improve reporting efficiency.
+
+- 👯 I’m looking to collaborate on open source projects that interest me.
+
+- 🌱 I’m currently learning Python.
+
+- ⚡ Fun fact: I like cryptomining and investing/business topics.
+
+- I have experience in the MERN stack, utilizing Express.js, React.js, Node.js, HTML and CSS to develop useful web apps.
